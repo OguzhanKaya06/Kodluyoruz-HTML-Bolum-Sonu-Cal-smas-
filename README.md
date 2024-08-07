@@ -1,4 +1,5 @@
-# Kodluyoruz-HTML-Bolum-Sonu-Cal-smas-
+# Kodluyoruz-HTML-Bolum-Sonu-Calismasi
  Kodluyoruz Eğitimi kapsamında açtığım dördüncü repo
+ 
+ Bu Dosyada Kodluyoruz HTML kursunun son videosunda işlenen bölüm çalışması vardır.
 
- https://picsum.photos/id/237/200/300
